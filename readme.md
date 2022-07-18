@@ -10,4 +10,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+To set up a local environment you have more than one alternative, but the easiest one is Using Docker, you can download it from Docker.com, follow the instructions to install and update your WSL if you are running on windows, and there you are, you can create your own repo, clone an existing one to work on, all this stuff from inside the Docker environment.
